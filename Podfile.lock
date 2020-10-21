@@ -1,0 +1,50 @@
+PODS:
+  - Alamofire (5.2.1)
+  - AlamofireImage (4.1.0):
+    - Alamofire (~> 5.1)
+  - JCore (2.3.4-noidfa)
+  - JPush (3.3.4):
+    - JCore (< 3.0.0, >= 2.0.0)
+  - ReachabilitySwift (5.0.0)
+  - SwiftFormat/CLI (0.44.16)
+  - SwiftyContacts (3.0.14)
+  - SwiftyJSON (5.0.0)
+  - WechatOpenSDK (1.8.7.1)
+
+DEPENDENCIES:
+  - Alamofire (= 5.2.1)
+  - AlamofireImage
+  - JCore (= 2.3.4-noidfa)
+  - JPush (= 3.3.4)
+  - ReachabilitySwift (= 5.0.0)
+  - SwiftFormat/CLI (= 0.44.16)
+  - SwiftyContacts (= 3.0.14)
+  - SwiftyJSON (= 5.0.0)
+  - WechatOpenSDK (= 1.8.7.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - JCore
+    - JPush
+    - ReachabilitySwift
+    - SwiftFormat
+    - SwiftyContacts
+    - SwiftyJSON
+    - WechatOpenSDK
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  AlamofireImage: c4a2ba349885fb3064feb74d2e547bd42ce9be10
+  JCore: 9e5503a391d6a650ae16d729b8bc41ddc126f0a0
+  JPush: 6188b8f375a7113f4b62bb33e96e280dbcfa06be
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SwiftFormat: c44bd17c23f237956f67205a422a1bd352d42e4c
+  SwiftyContacts: b1cc26a9bed08d3b1ff4ac19cebf5913e1362729
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  WechatOpenSDK: 6a4d1436c15b3b5fe2a0bd383f3046010186da44
+
+PODFILE CHECKSUM: 34b5162cd39c6f921c1c169477b8a44d819ac487
+
+COCOAPODS: 1.9.3
